@@ -51,7 +51,7 @@
 
 ###
 
-<p align="left">📬 Let's Connect<br><br>If you're looking for someone eager to learn and ready to grow in a fast-paced data environment, I'm open to internship roles and mentorship opportunities.</p>
+<p align="left">📬 Let's Connect<br><br>If you're looking for someone eager to learn and ready to grow in a fast-paced data environment, I'm open to internship roles and mentorship opportunities. <br>email: aminutaiwob25@gmail.com</br></p>
 
 ###
 
