@@ -1,8 +1,8 @@
-<h3 align="left">👋 Hi, I'm John Aminu-Taiwo — Aspiring Data Engineer</h3>
+<h2 align="left">👋 Hi, I'm John Aminu-Taiwo — Aspiring Data Engineer</h2>
 
 ###
 
-<h6 align="left">I'm an intern-level data engineer learning how to turn raw data into reliable, scalable systems. I build hands-on projects with Python, SQL, and data tools like Pandas, Airflow, and PostgreSQL.<br><br>Right now, I'm focused on:<br><br>- Learning how to structure clean ETL pipelines<br>- Understanding data modeling and orchestration<br>- Building data intuition through projects and writing</h6>
+<p align="left">I'm an intern-level data engineer learning how to turn raw data into reliable, scalable systems. I build hands-on projects with Python, SQL, and data tools like Pandas, Airflow, and PostgreSQL.<br><br>Right now, I'm focused on:<br><br>- Learning how to structure clean ETL pipelines<br>- Understanding data modeling and orchestration<br>- Building data intuition through projects and writing</p>
 
 ###
 
