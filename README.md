@@ -1,4 +1,4 @@
-<h2 align="left">👋 Hi, I'm John Aminu-Taiwo — Aspiring Data Engineer</h2>
+<h2 align="left">👋 Hi, I'm Boluwatife Aminu-Taiwo — Aspiring Data Engineer</h2>
 
 ###
 
